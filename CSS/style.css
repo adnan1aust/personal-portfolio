@@ -228,23 +228,31 @@ i {
 
 #html {
   width: 0%;
-  background-color: royalblue;
+  background-color: #111E6C;
 }
 #css {
   width: 0%;
-  background-color: royalblue;
+  background-color: #111E6C;
 }
 #js {
   width: 0%;
-  background-color: royalblue;
+  background-color: #111E6C;
 }
 #php {
   width: 0%;
-  background-color: royalblue;
+  background-color: #111E6C;
 }
 #java {
   width: 0%;
-  background-color: royalblue;
+  background-color: #111E6C;
+}
+#salesforce {
+  width: 0%;
+  background-color: #111E6C;
+}
+#ui-ux {
+  width: 0%;
+  background-color: #111E6C;
 }
 
 .role-section {
